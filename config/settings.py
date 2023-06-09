@@ -44,7 +44,7 @@ SECRET_KEY = env('SECRET_KEY')
 #SECRET_KEY = 'django-insecure-^4qmw$d&lz-w7n*9bmo3-%d2=u*x8w&t%z&=smi(%!$(g3a*f1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
