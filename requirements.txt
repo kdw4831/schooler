@@ -3,3 +3,5 @@ Django==4.2.1
 django-environ==0.10.0
 sqlparse==0.4.4
 tzdata==2023.3
+
+Markdown~=3.4.3
