@@ -154,3 +154,5 @@ LOGIN_REDIRECT_URL = '/'
 
 # 로그아웃시 이동하는 URL
 LOGOUT_REDIRECT_URL = '/'
+
+CSRF_TRUSTED_ORIGINS = ["https://port-0-schooler-das6e2dli9yxbv1.sel4.cloudtype.app",]
